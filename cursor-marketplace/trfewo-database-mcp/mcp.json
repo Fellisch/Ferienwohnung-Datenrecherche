@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "trfewo-database-mcp": {
+      "url": "https://database-mcp.ferienwohnung.check24.de/mcp",
+      "auth": {
+        "CLIENT_ID": "database-mcp",
+        "scopes": ["mcp:tools"]
+      }
+    }
+  }
+}
